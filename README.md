@@ -10,12 +10,30 @@
 
 ## 📥 Download Latest Version
 
-### [Download v1.0.0](https://github.com/webdeeva/eb-browser-releases/releases/latest)
+### [Download v1.0.5](https://github.com/webdeeva/eb2new/releases/tag/v1.0.5)
 
 Choose your platform:
-- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.0-arm64.dmg`
-- 🪟 **Windows** (ARM64): `Everything Black Setup 1.0.0.exe`
-- 🐧 **Linux** (ARM64): `Everything Black-1.0.0-arm64.AppImage`
+- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.5-arm64.dmg`
+- 🪟 **Windows**: `Everything Black Setup 1.0.5.exe`
+
+**Note for Windows Users**: Windows may show a SmartScreen warning because the app isn't signed with an expensive certificate. This is normal for independent software. Click "More info" → "Run anyway" to proceed.
+
+## 📋 Changelog
+
+### v1.0.5 (Latest)
+- Improved Windows build configuration to reduce antivirus false positives
+- Fixed duplicate window controls on macOS
+- Updated documentation logo to white version for better visibility
+- Added proper metadata and licensing information
+
+### v1.0.4
+- Fixed duplicate window controls issue
+- Updated documentation styling
+
+### v1.0.3
+- Fixed Ethereum provider injection in production builds
+- Fixed Help menu links to open within EB browser
+- Improved preload script handling for ASAR archives
 
 ## ✨ Features
 
