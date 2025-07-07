@@ -1,0 +1,23 @@
+{
+  "notifications": [
+    {
+      "id": "1",
+      "title": "Welcome to EB Browser!",
+      "message": "Thank you for using Everything Black Browser. Check out our new features!",
+      "date": "2025-01-07",
+      "priority": "normal",
+      "link": null,
+      "read": false
+    },
+    {
+      "id": "2",
+      "title": "New Domain Extensions Available",
+      "message": "Register your .guap and .hbcu domains at domains.everythingblack.xyz",
+      "date": "2025-01-07",
+      "priority": "high",
+      "link": "https://domains.everythingblack.xyz",
+      "read": false
+    }
+  ],
+  "lastUpdated": "2025-01-07T00:00:00Z"
+}
