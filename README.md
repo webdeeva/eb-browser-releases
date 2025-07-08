@@ -10,17 +10,27 @@
 
 ## 📥 Download Latest Version
 
-### [Download v1.0.5](https://github.com/webdeeva/eb2new/releases/tag/v1.0.5)
+### [Download v1.0.9](https://github.com/webdeeva/eb2new/releases/tag/v1.0.9)
 
 Choose your platform:
-- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.5-arm64.dmg`
-- 🪟 **Windows**: `Everything Black Setup 1.0.5.exe`
+- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.9-arm64.dmg`
+- 🪟 **Windows**: `Everything Black Setup 1.0.9.exe`
 
 **Note for Windows Users**: Windows may show a SmartScreen warning because the app isn't signed with an expensive certificate. This is normal for independent software. Click "More info" → "Run anyway" to proceed.
 
 ## 📋 Changelog
 
-### v1.0.5 (Latest)
+### v1.0.9 (Latest)
+- Added dynamic sidebar configuration system via JSON
+- Implemented maintenance mode for disabled features
+- Added custom button support with EB VR button
+- Added certificate whitelist for everythingblack.tv
+- Created professional maintenance page UI
+- Fixed certificate error modal display
+- Improved configuration loading for compiled apps
+- Added comprehensive documentation for new features
+
+### v1.0.5
 - Improved Windows build configuration to reduce antivirus false positives
 - Fixed duplicate window controls on macOS
 - Updated documentation logo to white version for better visibility
