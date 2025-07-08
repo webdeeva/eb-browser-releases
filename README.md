@@ -10,17 +10,24 @@
 
 ## 📥 Download Latest Version
 
-### [Download v1.0.10](https://github.com/webdeeva/eb2new/releases/tag/v1.0.10)
+### [Download v1.0.11](https://github.com/webdeeva/eb-browser-releases/releases/tag/v1.0.11)
 
 Choose your platform:
-- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.10-arm64.dmg` (Fixed installation issues!)
-- 🪟 **Windows**: `Everything Black Setup 1.0.10.exe`
+- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.11-arm64.dmg` ([Installation instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md))
+- 🪟 **Windows**: `Everything Black Setup 1.0.11.exe`
+
+**macOS Users**: Right-click the app and select "Open" to bypass the security warning. [See detailed instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md).
 
 **Note for Windows Users**: Windows may show a SmartScreen warning because the app isn't signed with an expensive certificate. This is normal for independent software. Click "More info" → "Run anyway" to proceed.
 
 ## 📋 Changelog
 
-### v1.0.10 (Latest)
+### v1.0.11 (Latest)
+- Added comprehensive macOS installation instructions
+- No code changes - same features as v1.0.10
+- Clarified that "damaged app" error is due to lack of Apple notarization
+
+### v1.0.10
 - **Fixed "damaged app" error on macOS** - App is now properly signed
 - No more Gatekeeper warnings when installing on Mac
 - Same features as v1.0.9 with installation fix
