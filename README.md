@@ -10,17 +10,22 @@
 
 ## 📥 Download Latest Version
 
-### [Download v1.0.9](https://github.com/webdeeva/eb2new/releases/tag/v1.0.9)
+### [Download v1.0.10](https://github.com/webdeeva/eb2new/releases/tag/v1.0.10)
 
 Choose your platform:
-- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.9-arm64.dmg`
-- 🪟 **Windows**: `Everything Black Setup 1.0.9.exe`
+- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.10-arm64.dmg` (Fixed installation issues!)
+- 🪟 **Windows**: `Everything Black Setup 1.0.10.exe`
 
 **Note for Windows Users**: Windows may show a SmartScreen warning because the app isn't signed with an expensive certificate. This is normal for independent software. Click "More info" → "Run anyway" to proceed.
 
 ## 📋 Changelog
 
-### v1.0.9 (Latest)
+### v1.0.10 (Latest)
+- **Fixed "damaged app" error on macOS** - App is now properly signed
+- No more Gatekeeper warnings when installing on Mac
+- Same features as v1.0.9 with installation fix
+
+### v1.0.9
 - Added dynamic sidebar configuration system via JSON
 - Implemented maintenance mode for disabled features
 - Added custom button support with EB VR button
