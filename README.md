@@ -15,7 +15,8 @@
 Choose your platform:
 - 🍎 **macOS (Universal)**: `Everything Black-1.0.22-universal.dmg` or `.zip`
 - 🍎 **macOS (Intel-only)**: `Everything Black-1.0.22-x64.dmg` or `.zip`
-- 🪟 **Windows**: latest signed installer is still `Everything Black Setup 1.0.11.exe` (new Windows build coming soon)
+- 🪟 **Windows (x64)**: `Everything Black Setup 1.0.22-x64.exe`
+- 🐧 **Linux (x64)**: `Everything Black-1.0.22.AppImage`
 
 **macOS Users**: Right-click the app and select "Open" to bypass the security warning. [See detailed instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md).
 
