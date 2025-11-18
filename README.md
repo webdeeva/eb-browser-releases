@@ -18,7 +18,7 @@ Choose your platform:
 - 🪟 **Windows (x64)**: `Everything Black Setup 1.0.22-x64.exe`
 - 🐧 **Linux (x64)**: `Everything Black-1.0.22.AppImage`
 
-**macOS Users**: Right-click the app and select "Open" to bypass the security warning. [See detailed instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md).
+**macOS Users**: Right-click the app and select "Open" to bypass the security warning. [See detailed instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md). Need extra help? Grab the [Fix-Everything-Black-Mac helper](https://github.com/webdeeva/eb-browser-releases/releases/download/v1.0.22/Fix-Everything-Black-Mac.zip).
 
 **Note for Windows Users**: Windows may show a SmartScreen warning because the app isn't signed with an expensive certificate. This is normal for independent software. Click "More info" → "Run anyway" to proceed.
 
