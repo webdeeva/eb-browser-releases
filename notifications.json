@@ -17,7 +17,16 @@
       "priority": "high",
       "link": "https://domains.everythingblack.xyz",
       "read": false
+    },
+    {
+      "id": "3",
+      "title": "v1.0.22 UI Refresh + Business Portal",
+      "message": "Try the new modern shell, theme toggle, and built-in business submission flow—now live in EB Browser!",
+      "date": "2025-11-18",
+      "priority": "high",
+      "link": "https://github.com/webdeeva/eb-browser-releases/releases/tag/v1.0.22",
+      "read": false
     }
   ],
-  "lastUpdated": "2025-01-07T00:00:00Z"
+  "lastUpdated": "2025-11-18T00:00:00Z"
 }

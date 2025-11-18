@@ -10,11 +10,12 @@
 
 ## 📥 Download Latest Version
 
-### [Download v1.0.11](https://github.com/webdeeva/eb-browser-releases/releases/tag/v1.0.11)
+### [Download v1.0.22](https://github.com/webdeeva/eb-browser-releases/releases/tag/v1.0.22)
 
 Choose your platform:
-- 🍎 **macOS** (Apple Silicon): `Everything Black-1.0.11-arm64.dmg` ([Installation instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md))
-- 🪟 **Windows**: `Everything Black Setup 1.0.11.exe`
+- 🍎 **macOS (Universal)**: `Everything Black-1.0.22-universal.dmg` or `.zip`
+- 🍎 **macOS (Intel-only)**: `Everything Black-1.0.22-x64.dmg` or `.zip`
+- 🪟 **Windows**: latest signed installer is still `Everything Black Setup 1.0.11.exe` (new Windows build coming soon)
 
 **macOS Users**: Right-click the app and select "Open" to bypass the security warning. [See detailed instructions](https://github.com/webdeeva/eb-browser-releases/blob/master/MAC_INSTALL_INSTRUCTIONS.md).
 
@@ -22,7 +23,17 @@ Choose your platform:
 
 ## 📋 Changelog
 
-### v1.0.11 (Latest)
+### v1.0.22 (Latest)
+- Brand-new modern UI shell with centered omnibox, refined toolbar, and refreshed sidebar icons
+- Theme system with instant Dark ⇄ EB Orange toggle + synced settings
+- Built-in **Submit Your Business** form (free listings) with multi-step flow and validation
+- Internal **Business Admin** page for approving or rejecting pending submissions
+- Updated landing page CTA + curated favorites styling
+
+### v1.0.21
+- Web3 domain manager updates and DNS improvements
+
+### v1.0.11
 - Added comprehensive macOS installation instructions
 - No code changes - same features as v1.0.10
 - Clarified that "damaged app" error is due to lack of Apple notarization
